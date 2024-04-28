@@ -10,7 +10,7 @@ import {
 import './style.css'
 import Home from './views/home'
 import './style.css' 
-import RegisterPage from './view/Register' 
+import RegisterPage from './view/RegisterPage' 
 
 const App = () => {
   return (
