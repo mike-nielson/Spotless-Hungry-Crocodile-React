@@ -9,6 +9,8 @@ import {
 
 import './style.css'
 import Home from './views/home'
+import './style.css' 
+import RegisterPage from './view/Register' 
 
 const App = () => {
   return (
